@@ -3,10 +3,10 @@
   "systemProfile": "production",
   "appVersion": "7.1.0",
   "multiPlayVersion": "kaito",
-  "assetVersion": "7.1.0.90",
+  "assetVersion": "7.1.0.95",
   "appVersionStatus": "available",
-  "dataVersion": "7.1.0.92",
-  "assetHash": "e32b92ba-d14c-4c1b-8057-75b4aeb2b5eb",
+  "dataVersion": "7.1.0.95",
+  "assetHash": "605c8d1b-26d3-4537-9500-2128e3d966bb",
   "removeAssetVersion": "1.13.0.30",
   "cdnVersion": 0
 }
